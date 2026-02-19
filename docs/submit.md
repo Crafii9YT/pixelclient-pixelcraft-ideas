@@ -11,6 +11,6 @@ Finished!
 
 ## Note for modders
 
-If your mod is self-made, please tell us in the PR.
+If your mod is self-made, please tell us in the README.md!
 
 Self-Made Mods are getting reviewed manually, and credited in the Mods Menu.
