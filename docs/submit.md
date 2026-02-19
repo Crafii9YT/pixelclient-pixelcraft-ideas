@@ -8,3 +8,9 @@ Submit Pull Requests like this:
 4. Open an Pull Request.
 
 Finished!
+
+## Note for modders
+
+If your mod is self-made, please tell us in the PR.
+
+Self-Made Mods are getting reviewed manually, and credited in the Mods Menu.
